@@ -1,53 +1,3 @@
-# 🌍 GlobalTrustPay (FinGuard X)
-
-## 🚀 AI + Blockchain Powered Cross-Border Financial Platform
-
----
-
-## 📌 Overview
-
-GlobalTrustPay (FinGuard X) is a next-generation fintech platform designed to solve real-world financial challenges faced by gig economy workers operating across international borders.
-
-Freelancers often struggle with:
-
-* High remittance fees
-* Currency conversion losses
-* Payment fraud risks
-* Lack of trust between clients
-* Complex compliance requirements
-
-This platform leverages **Blockchain, AI, and Real-Time Systems** to create a secure, intelligent, and efficient financial ecosystem.
-
----
-
-## 💡 Solution Architecture
-
-GlobalTrustPay is a unified, multi-layer fintech platform combining blockchain, AI, compliance, and real-time data systems.
-
-```
-👤 User Layer             📊 Dashboard Layer        🧠 AI & Risk Layer        🔗 Blockchain Layer
-
-┌──────────────────────┐  ┌──────────────────────┐  ┌──────────────────────┐  ┌──────────────────────┐
-│ Web / Mobile App     │  │ Fintech Dashboard    │  │ TrustAI Engine       │  │ Smart Contracts      │
-│                      │  │                      │  │                      │  │                      │
-│ • Wallet Connect     │  │ • Balance Overview   │  │ • Risk Scoring       │  │ • Escrow System      │
-│ • Send / Receive     │  │ • Transaction Map    │  │ • Fraud Detection    │  │ • Fund Lock/Release  │
-│ • KYC Upload         │  │ • Analytics Engine   │  │ • AI Advice          │  │ • Transaction Hash   │
-│ • DID Identity       │  │ • Fee Insights       │  │ • Decision Support   │  │ • On-chain Records   │
-└──────────────────────┘  └──────────────────────┘  └──────────────────────┘  └──────────────────────┘
-
-
-        🪪 Compliance Layer          💱 Financial Engine          🌍 Real-Time System
-
-     ┌──────────────────────┐    ┌──────────────────────┐    ┌──────────────────────┐
-     │ KYC + AML System     │    │ Multi-Currency       │    │ Live Data Engine     │
-     │                      │    │                      │    │                      │
-     │ • ID Verification    │    │ • USD / INR / EUR    │    │ • WebSockets         │
-     │ • AML Checks         │    │ • ETH / USDC         │    │ • Transaction Map    │
-     │ • GDPR Privacy       │    │ • Conversion Engine  │    │ • Live Updates       │
-     │ • Access Control     │    │ • Fee Optimization   │    │ • Event Streaming    │
-     └──────────────────────┘    ┌──────────────────────┘    └──────────────────────┘
-```
 
 ---
 
@@ -57,7 +7,7 @@ GlobalTrustPay is a unified, multi-layer fintech platform combining blockchain, 
 
 ### 🌐 Landing Page (Homepage)
 
-![Landing Page](1.png)
+![Landing Page](./assets/1.png)
 
 The homepage introduces the platform with a strong value proposition:
 **Borderless Payments + Trustworthy Work.**
