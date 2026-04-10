@@ -1,3 +1,53 @@
+# 🌍 GlobalTrustPay (FinGuard X)
+
+## 🚀 AI + Blockchain Powered Cross-Border Financial Platform
+
+---
+
+## 📌 Overview
+
+GlobalTrustPay (FinGuard X) is a next-generation fintech platform designed to solve real-world financial challenges faced by gig economy workers operating across international borders.
+
+Freelancers often struggle with:
+
+* High remittance fees
+* Currency conversion losses
+* Payment fraud risks
+* Lack of trust between clients
+* Complex compliance requirements
+
+This platform leverages **Blockchain, AI, and Real-Time Systems** to create a secure, intelligent, and efficient financial ecosystem.
+
+---
+
+## 💡 Solution Architecture
+
+GlobalTrustPay is a unified, multi-layer fintech platform combining blockchain, AI, compliance, and real-time data systems.
+
+```
+👤 User Layer             📊 Dashboard Layer        🧠 AI & Risk Layer        🔗 Blockchain Layer
+
+┌──────────────────────┐  ┌──────────────────────┐  ┌──────────────────────┐  ┌──────────────────────┐
+│ Web / Mobile App     │  │ Fintech Dashboard    │  │ TrustAI Engine       │  │ Smart Contracts      │
+│                      │  │                      │  │                      │  │                      │
+│ • Wallet Connect     │  │ • Balance Overview   │  │ • Risk Scoring       │  │ • Escrow System      │
+│ • Send / Receive     │  │ • Transaction Map    │  │ • Fraud Detection    │  │ • Fund Lock/Release  │
+│ • KYC Upload         │  │ • Analytics Engine   │  │ • AI Advice          │  │ • Transaction Hash   │
+│ • DID Identity       │  │ • Fee Insights       │  │ • Decision Support   │  │ • On-chain Records   │
+└──────────────────────┘  └──────────────────────┘  └──────────────────────┘  └──────────────────────┘
+
+
+        🪪 Compliance Layer          💱 Financial Engine          🌍 Real-Time System
+
+     ┌──────────────────────┐    ┌──────────────────────┐    ┌──────────────────────┐
+     │ KYC + AML System     │    │ Multi-Currency       │    │ Live Data Engine     │
+     │                      │    │                      │    │                      │
+     │ • ID Verification    │    │ • USD / INR / EUR    │    │ • WebSockets         │
+     │ • AML Checks         │    │ • ETH / USDC         │    │ • Transaction Map    │
+     │ • GDPR Privacy       │    │ • Conversion Engine  │    │ • Live Updates       │
+     │ • Access Control     │    │ • Fee Optimization   │    │ • Event Streaming    │
+     └──────────────────────┘    └──────────────────────┘    └──────────────────────┘
+```
 
 ---
 
@@ -7,7 +57,7 @@
 
 ### 🌐 Landing Page (Homepage)
 
-![Landing Page](./assets/1.png)
+![Landing Page](./1\(1\).png)
 
 The homepage introduces the platform with a strong value proposition:
 **Borderless Payments + Trustworthy Work.**
@@ -22,7 +72,7 @@ Key highlights:
 
 ### 📊 Dashboard
 
-![Dashboard](./assets/2.png)
+![Dashboard](./2\(1\).png)
 
 The dashboard provides a complete overview of user activity and system intelligence:
 
@@ -36,7 +86,7 @@ The dashboard provides a complete overview of user activity and system intellige
 
 ### 🌍 Transaction Map (Real-Time)
 
-![Transaction Map](./assets/3.png)
+![Transaction Map](./3\(1\).png)
 
 A real-time visualization of global transactions:
 
@@ -49,7 +99,7 @@ A real-time visualization of global transactions:
 
 ### 📈 Analytics Dashboard
 
-![Analytics](./assets/4.png)
+![Analytics](./4\(1\).png)
 
 A data-driven financial analytics engine:
 
@@ -62,7 +112,7 @@ A data-driven financial analytics engine:
 
 ### 👛 Wallet System
 
-![Wallet](./assets/5.png)
+![Wallet](./5\(1\).png)
 
 A powerful multi-currency wallet integrated with blockchain:
 
@@ -75,7 +125,7 @@ A powerful multi-currency wallet integrated with blockchain:
 
 ### 🪪 KYC & AML + Decentralized Identity
 
-![KYC & AML](./assets/6.png)
+![KYC & AML](./6\(1\).png)
 
 Compliance and identity system ensuring trust:
 
@@ -221,7 +271,7 @@ Compliance and identity system ensuring trust:
 
 ---
 
-## 👨💻 Author
+## 👨‍💻 Author
 
 Pushkar Raj Jaiswal
 
@@ -237,3 +287,5 @@ It is a **complete fintech ecosystem prototype** demonstrating:
 👉 AI Financial Intelligence
 👉 Decentralized Identity
 👉 Real-Time Global Finance
+
+---
