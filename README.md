@@ -57,7 +57,7 @@ GlobalTrustPay is a unified, multi-layer fintech platform combining blockchain, 
 
 ### 🌐 Landing Page (Homepage)
 
-![Landing Page](./assets/1.png)
+![Landing Page](1.png)
 
 The homepage introduces the platform with a strong value proposition:
 **Borderless Payments + Trustworthy Work.**
