@@ -51,15 +51,89 @@ GlobalTrustPay is a unified, multi-layer fintech platform combining blockchain, 
 
 ---
 
-## 🔍 How It Works
+## 🖼️ Application Screenshots
 
-1. User connects wallet and completes KYC
-2. Initiates cross-border transaction
-3. Smart contract locks funds (escrow)
-4. Risk engine evaluates transaction
-5. TrustAI provides recommendation
-6. Transaction executed securely
-7. Map and analytics update in real-time
+---
+
+### 🌐 Landing Page (Homepage)
+
+![Landing Page](./assets/1.png)
+
+The homepage introduces the platform with a strong value proposition:
+**Borderless Payments + Trustworthy Work.**
+
+Key highlights:
+
+* Wallet connection entry point
+* DID identity onboarding
+* Feature overview (Escrow, Conversion, Trust)
+
+---
+
+### 📊 Dashboard
+
+![Dashboard](./assets/2.png)
+
+The dashboard provides a complete overview of user activity and system intelligence:
+
+* Total balance & escrow value
+* Trust score & reputation
+* Multi-currency wallet summary
+* Fraud alerts & AML monitoring
+* Global time zones for cross-border awareness
+
+---
+
+### 🌍 Transaction Map (Real-Time)
+
+![Transaction Map](./assets/3.png)
+
+A real-time visualization of global transactions:
+
+* Live transaction flows using WebSockets
+* Animated routes between countries
+* Real-time settlement tracking
+* Interactive route insights
+
+---
+
+### 📈 Analytics Dashboard
+
+![Analytics](./assets/4.png)
+
+A data-driven financial analytics engine:
+
+* Earnings, fees, and savings graphs
+* Dynamic filters (7 Days / 30 Days / All Time)
+* Fee comparison vs traditional systems
+* Smart financial insights
+
+---
+
+### 👛 Wallet System
+
+![Wallet](./assets/5.png)
+
+A powerful multi-currency wallet integrated with blockchain:
+
+* MetaMask wallet connection
+* Real-time balance fetching
+* Escrow contract interaction
+* Currency conversion engine (oracle-simulated)
+
+---
+
+### 🪪 KYC & AML + Decentralized Identity
+
+![KYC & AML](./assets/6.png)
+
+Compliance and identity system ensuring trust:
+
+* KYC verification (ID upload)
+* AML monitoring
+* Decentralized Identity (DID)
+* Verifiable credentials (on-chain proof)
+* Privacy-protected user data
 
 ---
 
@@ -69,9 +143,8 @@ GlobalTrustPay is a unified, multi-layer fintech platform combining blockchain, 
 
 ### 🔗 Blockchain Escrow System
 
-* Smart contract-based transactions
+* Secure smart contract transactions
 * Lock → Release → Refund mechanism
-* Eliminates intermediaries
 
 ---
 
@@ -79,124 +152,91 @@ GlobalTrustPay is a unified, multi-layer fintech platform combining blockchain, 
 
 * MetaMask connection
 * Transaction signing
-* Balance fetching
-* Smart contract interaction
+* Smart contract execution
 
 ---
 
-### 💱 Multi-Currency Wallet
+### 💱 Multi-Currency System
 
-Supports:
-
-* USD, INR, EUR
-* ETH (crypto)
-* USDC (stablecoin)
-
----
-
-### 🔁 Currency Conversion Engine
-
+* USD, INR, EUR, ETH, USDC
 * Real-time conversion
-* Oracle-inspired pricing
-* Stablecoin support
 
 ---
 
-### 💸 Low-Fee Transactions
+### 💸 Low-Fee Engine
 
-* <1% fees
-* Real-time fee calculation
+* <1% transaction fees
 * Savings vs traditional systems
 
 ---
 
 ### 📊 Analytics Engine
 
-* Earnings insights
-* Fee tracking
-* Savings visualization
-* Dynamic filters (7d / 30d / all time)
+* Real-time earnings insights
+* Fee and savings calculations
 
 ---
 
-### 🌍 Real-Time Transaction Map
+### 🌍 Real-Time Map
 
-* Live global transaction visualization
+* Live transaction visualization
 * WebSocket-based updates
-* Animated transaction flows
 
 ---
 
 ### 🪪 KYC + AML Compliance
 
-* Identity verification system
-* AML risk detection
-* GDPR-style privacy protection
+* Identity verification
+* Fraud prevention rules
 
 ---
 
-### 🪪 Decentralized Identity (DID)
+### 🪪 DID Identity System
 
 * Self-sovereign identity
 * Verifiable credentials
-* Trust score system
 
 ---
 
-### 🚨 Fraud Detection System
+### 🚨 Fraud Detection
 
 * Risk scoring (0–100)
 * Real-time alerts
-* Behavior-based detection
 
 ---
 
 ### 🤖 TrustAI Assistant
 
-* AI-powered financial advisor
-* Risk analysis
-* Decision support
-* Structured responses
+* AI-powered financial advice
+* Risk analysis + recommendations
 
 ---
 
 ## 🏗️ Tech Stack
 
-### 💻 Frontend
+### Frontend
 
 * React.js
 * Tailwind CSS
 * Chart.js / Recharts
 * Leaflet / Mapbox
 
-### ⚙️ Backend
+### Backend
 
 * Node.js (Express)
 * MongoDB
 * Socket.io
 
-### 🔗 Blockchain
+### Blockchain
 
 * Solidity
 * Hardhat
 * Ethers.js
 * MetaMask
 
-### 🤖 AI
+### AI
 
 * OpenAI API
-
----
-
-## 📂 Project Structure
-
-```
-/frontend
-/backend
-/contracts
-/services
-/ml-model (optional)
-```
 
 ---
 
@@ -205,29 +245,10 @@ Supports:
 1. Connect wallet
 2. Complete KYC
 3. Send transaction
-4. View escrow + risk analysis
-5. Get AI advice
-6. See real-time map update
-7. Analyze financial insights
-
----
-
-## 🔐 Security Features
-
-* OTP Authentication
-* Wallet-based signing
-* KYC verification
-* AML checks
-* Fraud detection
-* Secure smart contracts
-
----
-
-## 🧪 Hackathon Strategy
-
-* Real core flows implemented
-* Some systems simulated (oracle, ML)
-* Designed for scalability
+4. Smart contract escrow execution
+5. Risk analysis + AI advice
+6. Real-time map update
+7. Analytics insights
 
 ---
 
@@ -236,7 +257,7 @@ Supports:
 * Full-stack fintech system
 * Web3 + AI integration
 * Real-time architecture
-* Compliance-aware design
+* Compliance-ready design
 * Intelligent decision engine
 
 ---
@@ -246,7 +267,7 @@ Supports:
 * Chainlink oracle integration
 * Advanced ML fraud detection
 * Mobile app
-* Real-world compliance integration
+* Production-grade compliance
 
 ---
 
@@ -256,17 +277,11 @@ Pushkar Raj Jaiswal
 
 ---
 
-## 📜 License
-
-For educational and hackathon use.
-
----
-
 ## ⭐ Final Note
 
 This is not just a project.
 
-It is a **complete fintech ecosystem prototype** demonstrating the future of:
+It is a **complete fintech ecosystem prototype** demonstrating:
 
 👉 Blockchain Payments
 👉 AI Financial Intelligence
