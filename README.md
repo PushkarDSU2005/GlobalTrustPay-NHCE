@@ -1,32 +1,20 @@
-<div align="center">
-  <h1>🌍 GlobalTrustPay (FinGuard X)</h1>
-  <h3>🚀 AI + Blockchain Powered Cross-Border Financial Platform</h3>
-  <p><i>A complete fintech ecosystem prototype for the modern gig economy.</i></p>
+# 🌍 GlobalTrustPay (FinGuard X)
 
-  <hr />
-
-  <table>
-    <tr>
-      <td><b>🔗 Blockchain Payments</b></td>
-      <td><b>🧠 AI Financial Intelligence</b></td>
-      <td><b>🪪 Decentralized Identity</b></td>
-      <td><b>🌍 Real-Time Global Finance</b></td>
-    </tr>
-  </table>
-</div>
+## 🚀 AI + Blockchain Powered Cross-Border Financial Platform
 
 ---
 
 ## 📌 Overview
 
-**GlobalTrustPay (FinGuard X)** is a next-generation fintech platform designed to solve real-world financial challenges faced by gig economy workers operating across international borders.
+GlobalTrustPay (FinGuard X) is a next-generation fintech platform designed to solve real-world financial challenges faced by gig economy workers operating across international borders.
 
 Freelancers often struggle with:
-- 💸 **High remittance fees**
-- 💱 **Currency conversion losses**
-- 🤖 **Payment fraud risks**
-- 🤝 **Lack of trust between clients**
-- ⚖️ **Complex compliance requirements**
+
+* High remittance fees
+* Currency conversion losses
+* Payment fraud risks
+* Lack of trust between clients
+* Complex compliance requirements
 
 This platform leverages **Blockchain, AI, and Real-Time Systems** to create a secure, intelligent, and efficient financial ecosystem.
 
@@ -34,11 +22,9 @@ This platform leverages **Blockchain, AI, and Real-Time Systems** to create a se
 
 ## 💡 Solution Architecture
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/PushkarDSU2005/NHCE/main/assets/architecture_diagram.png" alt="Architecture" width="100%" />
-</div>
+GlobalTrustPay is a unified, multi-layer fintech platform combining blockchain, AI, compliance, and real-time data systems.
 
-<pre>
+```
 👤 User Layer             📊 Dashboard Layer        🧠 AI & Risk Layer        🔗 Blockchain Layer
 
 ┌──────────────────────┐  ┌──────────────────────┐  ┌──────────────────────┐  ┌──────────────────────┐
@@ -49,77 +35,257 @@ This platform leverages **Blockchain, AI, and Real-Time Systems** to create a se
 │ • KYC Upload         │  │ • Analytics Engine   │  │ • AI Advice          │  │ • Transaction Hash   │
 │ • DID Identity       │  │ • Fee Insights       │  │ • Decision Support   │  │ • On-chain Records   │
 └──────────────────────┘  └──────────────────────┘  └──────────────────────┘  └──────────────────────┘
-</pre>
+
+
+        🪪 Compliance Layer          💱 Financial Engine          🌍 Real-Time System
+
+     ┌──────────────────────┐    ┌──────────────────────┐    ┌──────────────────────┐
+     │ KYC + AML System     │    │ Multi-Currency       │    │ Live Data Engine     │
+     │                      │    │                      │    │                      │
+     │ • ID Verification    │    │ • USD / INR / EUR    │    │ • WebSockets         │
+     │ • AML Checks         │    │ • ETH / USDC         │    │ • Transaction Map    │
+     │ • GDPR Privacy       │    │ • Conversion Engine  │    │ • Live Updates       │
+     │ • Access Control     │    │ • Fee Optimization   │    │ • Event Streaming    │
+     └──────────────────────┘    └──────────────────────┘    └──────────────────────┘
+```
 
 ---
 
 ## 🖼️ Application Screenshots
 
-<div align="center">
+---
 
-  <h3>🌐 Landing Page (Homepage)</h3>
-  <img src="assets/1.png" alt="Landing Page" width="85%" style="border-radius: 10px; margin-bottom: 20px;" />
-  <p><i>Borderless Payments + Trustworthy Work. Wallet connection and DID identity onboarding.</i></p>
+### 🌐 Landing Page (Homepage)
 
-  <hr />
+![Landing Page](./1\(1\).png)
 
-  <h3>📊 Dashboard</h3>
-  <img src="assets/2.png" alt="Dashboard" width="85%" style="border-radius: 10px; margin-bottom: 20px;" />
-  <p><i>Total balance, Trust score, and multi-currency wallet summary with AML monitoring.</i></p>
+The homepage introduces the platform with a strong value proposition:
+**Borderless Payments + Trustworthy Work.**
 
-  <hr />
+Key highlights:
 
-  <h3>🌍 Transaction Map (Real-Time)</h3>
-  <img src="assets/3.png" alt="Transaction Map" width="85%" style="border-radius: 10px; margin-bottom: 20px;" />
-  <p><i>Live transaction flows using WebSockets with animated global routes.</i></p>
+* Wallet connection entry point
+* DID identity onboarding
+* Feature overview (Escrow, Conversion, Trust)
 
-  <hr />
+---
 
-  <h3>📈 Analytics Dashboard</h3>
-  <img src="assets/4.png" alt="Analytics" width="85%" style="border-radius: 10px; margin-bottom: 20px;" />
-  <p><i>Data-driven financial insights with fee comparison vs traditional systems.</i></p>
+### 📊 Dashboard
 
-  <hr />
+![Dashboard](./2\(1\).png)
 
-  <h3>👛 Wallet System</h3>
-  <img src="assets/5.png" alt="Wallet" width="85%" style="border-radius: 10px; margin-bottom: 20px;" />
-  <p><i>MetaMask integration, real-time balance fetching, and escrow contract interaction.</i></p>
+The dashboard provides a complete overview of user activity and system intelligence:
 
-  <hr />
+* Total balance & escrow value
+* Trust score & reputation
+* Multi-currency wallet summary
+* Fraud alerts & AML monitoring
+* Global time zones for cross-border awareness
 
-  <h3>🪪 KYC & AML + Decentralized Identity</h3>
-  <img src="assets/6.png" alt="KYC & AML" width="85%" style="border-radius: 10px; margin-bottom: 20px;" />
-  <p><i>Decentralized Identity (DID) and verifiable credentials ensuring privacy-protected trust.</i></p>
+---
 
-</div>
+### 🌍 Transaction Map (Real-Time)
+
+![Transaction Map](./3\(1\).png)
+
+A real-time visualization of global transactions:
+
+* Live transaction flows using WebSockets
+* Animated routes between countries
+* Real-time settlement tracking
+* Interactive route insights
+
+---
+
+### 📈 Analytics Dashboard
+
+![Analytics](./4\(1\).png)
+
+A data-driven financial analytics engine:
+
+* Earnings, fees, and savings graphs
+* Dynamic filters (7 Days / 30 Days / All Time)
+* Fee comparison vs traditional systems
+* Smart financial insights
+
+---
+
+### 👛 Wallet System
+
+![Wallet](./5\(1\).png)
+
+A powerful multi-currency wallet integrated with blockchain:
+
+* MetaMask wallet connection
+* Real-time balance fetching
+* Escrow contract interaction
+* Currency conversion engine (oracle-simulated)
+
+---
+
+### 🪪 KYC & AML + Decentralized Identity
+
+![KYC & AML](./6\(1\).png)
+
+Compliance and identity system ensuring trust:
+
+* KYC verification (ID upload)
+* AML monitoring
+* Decentralized Identity (DID)
+* Verifiable credentials (on-chain proof)
+* Privacy-protected user data
 
 ---
 
 ## 🧠 Core Features
 
-- **🔗 Blockchain Escrow**: Secure smart contract transactions (Lock → Release → Refund).
-- **👛 Wallet Integration**: MetaMask connection and transaction signing.
-- **💱 Multi-Currency**: Real-time conversion between USD, INR, EUR, ETH, and USDC.
-- **💸 Low-Fee Engine**: <1% transaction fees, significantly lower than traditional banks.
-- **🌍 Real-Time Map**: WebSocket-based global transaction visualization.
-- **🪪 Compliance (KYC/AML)**: Automated identity verification and fraud prevention.
-- **🤖 TrustAI**: AI-powered financial advice and risk analysis.
+---
+
+### 🔗 Blockchain Escrow System
+
+* Secure smart contract transactions
+* Lock → Release → Refund mechanism
+
+---
+
+### 👛 Wallet Integration
+
+* MetaMask connection
+* Transaction signing
+* Smart contract execution
+
+---
+
+### 💱 Multi-Currency System
+
+* USD, INR, EUR, ETH, USDC
+* Real-time conversion
+
+---
+
+### 💸 Low-Fee Engine
+
+* <1% transaction fees
+* Savings vs traditional systems
+
+---
+
+### 📊 Analytics Engine
+
+* Real-time earnings insights
+* Fee and savings calculations
+
+---
+
+### 🌍 Real-Time Map
+
+* Live transaction visualization
+* WebSocket-based updates
+
+---
+
+### 🪪 KYC + AML Compliance
+
+* Identity verification
+* Fraud prevention rules
+
+---
+
+### 🪪 DID Identity System
+
+* Self-sovereign identity
+* Verifiable credentials
+
+---
+
+### 🚨 Fraud Detection
+
+* Risk scoring (0–100)
+* Real-time alerts
+
+---
+
+### 🤖 TrustAI Assistant
+
+* AI-powered financial advice
+* Risk analysis + recommendations
 
 ---
 
 ## 🏗️ Tech Stack
 
-- **Frontend**: React.js, Tailwind CSS, Chart.js, Leaflet
-- **Backend**: Node.js (Express), MongoDB, Socket.io
-- **Blockchain**: Solidity, Hardhat, Ethers.js, MetaMask
-- **AI**: OpenAI API
+### Frontend
+
+* React.js
+* Tailwind CSS
+* Chart.js / Recharts
+* Leaflet / Mapbox
+
+### Backend
+
+* Node.js (Express)
+* MongoDB
+* Socket.io
+
+### Blockchain
+
+* Solidity
+* Hardhat
+* Ethers.js
+* MetaMask
+
+### AI
+
+* OpenAI API
+
+---
+
+## ⚡ Demo Flow
+
+1. Connect wallet
+2. Complete KYC
+3. Send transaction
+4. Smart contract escrow execution
+5. Risk analysis + AI advice
+6. Real-time map update
+7. Analytics insights
+
+---
+
+## 🏆 Key Highlights
+
+* Full-stack fintech system
+* Web3 + AI integration
+* Real-time architecture
+* Compliance-ready design
+* Intelligent decision engine
+
+---
+
+## 🚀 Future Scope
+
+* Chainlink oracle integration
+* Advanced ML fraud detection
+* Mobile app
+* Production-grade compliance
 
 ---
 
 ## 👨‍💻 Author
 
-**Pushkar Raj Jaiswal**
+Pushkar Raj Jaiswal
 
-<div align="center">
-  <p>⭐ <b>This is a complete fintech ecosystem prototype.</b> ⭐</p>
-</div>
+---
+
+## ⭐ Final Note
+
+This is not just a project.
+
+It is a **complete fintech ecosystem prototype** demonstrating:
+
+👉 Blockchain Payments
+👉 AI Financial Intelligence
+👉 Decentralized Identity
+👉 Real-Time Global Finance
+
+---
