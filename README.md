@@ -72,7 +72,7 @@ Key highlights:
 
 ### 📊 Dashboard
 
-![Dashboard](./2\(1\).png)
+![Dashboard]<img src="assets/1.png" width="400"/><br><b>Landing page</b><br><br>
 
 The dashboard provides a complete overview of user activity and system intelligence:
 
